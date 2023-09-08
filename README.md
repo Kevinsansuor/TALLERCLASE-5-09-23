@@ -33,10 +33,6 @@ Crea una página que contenga una tabla con al menos tres filas y tres columnas.
 
 Modifica la página del ejercicio 1 para practicar la anidación de elementos HTML. Por ejemplo, dentro del párrafo, agrega una lista ordenada o no ordenada, y dentro de una de las celdas de la tabla, coloca una imagen.
 
----
-
-## PROGRAMACIÓN WEB
-
 ## Ejercicio 6: Uso de estilos CSS
 
 Agrega estilos CSS para mejorar la apariencia de tu página. Esto puede incluir cambios en los colores, fuentes, márgenes, etc. Puedes enlazar una hoja de estilo externa o utilizar estilos internos en línea.
